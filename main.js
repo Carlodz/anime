@@ -1,0 +1,1 @@
+PLACEHOLDER - full content from local main.js with UPDATE_REPO set to Carlodz/anime
